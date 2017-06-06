@@ -1,2 +1,3 @@
 Harry Programmer and the Sorcerer's Code: scene 1
 Dumblediff : I shoud've know you would be here , Professor McGonagit
+im gonna add this line to test to command "git diff filename"
